@@ -32,7 +32,7 @@ setup(
     author="Lixin Yang",
     author_email="siriusyang@sjtu.edu.cn",
     packages=find_packages(exclude=('tests',)),
-    python_requires=">=3.7.0",
+    python_requires=">=3.6.0",
     description="MANO pyTORCH",
     # long_description=long_description,
     long_description_content_type="text/markdown",
